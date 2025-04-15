@@ -39,5 +39,5 @@ la respuesta debería ser:
 
 ## Contribuyentes (Grupo número 15) ✨ 
 ---
-* [Juan Felipe Raysz Muñoz](https://github.com/Kingsephir)
+* [Juan Felipe Raysz Muñoz](https://github.com/Sephir0ath)
 * [Manuel Isaac Núñez Larenas](https://github.com/sshiro0)
