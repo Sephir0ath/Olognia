@@ -1,6 +1,6 @@
 # Larga vida a Olognia!
 ---
-## ⭐Enunciado del problema ⭐
+## ⭐Enunciado del problema ⭐ (Proyecto 1 de la asignatura Estructura de Datos)
 En el pintoresco pueblo de Olognia habitan talentosos ingenieros informáticos, los cuales han estado desarrollando el Programa Experimental de Poder Extremo (PEPE por sus iniciales). Sin embargo por un error de programación, ¡PEPE se ha salido de control y está apunto de atacar al pueblo!
 
 PEPE tiene la capacidad de generar esbirros los cuales tienen puntos de vida y de ataque variables (no todos los esbirros fueron creados iguales) los cuales atacarán la ciudad de manera secuencial, uno a la vez y en el mismo orden en el que fueron creados. Además, PEPE es capaz de crear Clones Avanzados de Naturaleza Orgánica (CANO por sus iniciales), los cuales al ser atacados una cierta cantidad de veces, son capaces de dividirse una única vez en dos partes iguales, donde cada parte tendrá los puntos de vida y ataque disminuidos en uno respecto a los que tenía antes de ser dividido. Note que estos esbirros resultantes de la división serán los siguientes en atacar el pueblo y se cuentan como esbirros independientes.
