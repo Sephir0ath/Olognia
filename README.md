@@ -37,7 +37,7 @@ la respuesta debería ser:
 - 26 EZ pizi
 
 
-## Contribuyentes (Grupo número 15) ✨ 
+## Contribuyentes ✨ 
 ---
 * [Juan Felipe Raysz Muñoz](https://github.com/Sephir0ath)
 * [Manuel Isaac Núñez Larenas](https://github.com/sshiro0)
